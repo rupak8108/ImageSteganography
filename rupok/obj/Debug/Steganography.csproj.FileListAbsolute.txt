@@ -1,0 +1,24 @@
+G:\files\rupok\bin\Debug\Steganography.exe.config
+G:\files\rupok\bin\Debug\Steganography.exe
+G:\files\rupok\bin\Debug\Steganography.pdb
+G:\files\rupok\obj\Debug\Steganography.csproj.AssemblyReference.cache
+G:\files\rupok\obj\Debug\Steganography.csproj.SuggestedBindingRedirects.cache
+G:\files\rupok\obj\Debug\Steganography.Form1.resources
+G:\files\rupok\obj\Debug\Steganography.ImgPreview.resources
+G:\files\rupok\obj\Debug\Steganography.Properties.Resources.resources
+G:\files\rupok\obj\Debug\Steganography.csproj.GenerateResource.cache
+G:\files\rupok\obj\Debug\Steganography.csproj.CoreCompileInputs.cache
+G:\files\rupok\obj\Debug\Steganography.exe
+G:\files\rupok\obj\Debug\Steganography.pdb
+E:\Rupak Project\rupok\bin\Debug\Steganography.exe.config
+E:\Rupak Project\rupok\bin\Debug\Steganography.exe
+E:\Rupak Project\rupok\bin\Debug\Steganography.pdb
+E:\Rupak Project\rupok\obj\Debug\Steganography.csproj.AssemblyReference.cache
+E:\Rupak Project\rupok\obj\Debug\Steganography.csproj.SuggestedBindingRedirects.cache
+E:\Rupak Project\rupok\obj\Debug\Steganography.Form1.resources
+E:\Rupak Project\rupok\obj\Debug\Steganography.ImgPreview.resources
+E:\Rupak Project\rupok\obj\Debug\Steganography.Properties.Resources.resources
+E:\Rupak Project\rupok\obj\Debug\Steganography.csproj.GenerateResource.cache
+E:\Rupak Project\rupok\obj\Debug\Steganography.csproj.CoreCompileInputs.cache
+E:\Rupak Project\rupok\obj\Debug\Steganography.exe
+E:\Rupak Project\rupok\obj\Debug\Steganography.pdb
